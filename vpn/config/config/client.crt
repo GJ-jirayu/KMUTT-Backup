@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=TH, ST=BK, L=Bangkok, O=kmutt, OU=CC, CN=tunnel.kmutt.ac.th/emailAddress=noc@kmutt.ac.th
+        Validity
+            Not Before: Feb 23 08:34:31 2011 GMT
+            Not After : Feb 20 08:34:31 2021 GMT
+        Subject: C=TH, ST=BK, L=Bangkok, O=kmutt, OU=CC, CN=client/emailAddress=noc@kmutt.ac.th
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b9:70:ed:41:51:bc:b1:12:18:5a:04:f0:de:a7:
+                    e2:87:9c:25:57:89:8e:46:50:5a:d8:9d:4c:9f:20:
+                    e6:a1:96:ef:dc:e9:12:53:c5:ac:cf:8e:d8:da:0a:
+                    af:e8:84:90:77:66:55:62:5d:da:80:dd:a8:e6:89:
+                    97:73:a9:36:84:d5:3f:13:82:01:a9:58:c0:73:75:
+                    1c:e2:63:66:b4:30:e8:33:94:70:52:98:05:b6:8b:
+                    bf:a8:df:32:5f:f9:e5:50:fb:6d:e9:70:c8:9f:de:
+                    f7:64:08:dc:51:98:e0:e0:64:ca:a3:78:9f:44:45:
+                    de:34:1b:3a:82:1b:a8:80:f9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                F3:FA:E2:3B:80:C5:4F:92:F4:9A:2A:58:E2:2F:CD:BE:31:C9:95:63
+            X509v3 Authority Key Identifier: 
+                keyid:52:1A:A0:06:BD:F6:4F:31:0C:62:B6:38:3F:48:92:E3:65:74:74:9B
+                DirName:/C=TH/ST=BK/L=Bangkok/O=kmutt/OU=CC/CN=tunnel.kmutt.ac.th/emailAddress=noc@kmutt.ac.th
+                serial:9C:13:13:BB:29:F5:A5:1D
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+        9d:f2:d4:85:98:d7:a5:9d:f3:63:33:62:8d:d5:db:c6:4d:de:
+        9e:2e:95:4a:23:98:7d:ae:b5:e3:16:be:5b:42:36:ad:f1:e4:
+        0e:6d:b0:38:4b:e3:e9:03:e8:02:c0:ae:ca:9b:c3:84:ba:b6:
+        07:40:76:cb:27:2a:4d:49:2d:8b:d6:3f:09:87:51:29:18:74:
+        f8:88:92:5f:2a:76:4c:f4:ad:f7:62:81:d5:89:24:16:99:92:
+        c6:3e:54:d7:f6:49:79:55:41:25:2f:bd:9c:a3:39:9f:07:42:
+        4a:11:55:5d:59:05:a1:a5:e6:5f:43:33:fa:7c:14:0f:b1:3f:
+        b1:72
+-----BEGIN CERTIFICATE-----
+MIIDtjCCAx+gAwIBAgIBAjANBgkqhkiG9w0BAQUFADCBhjELMAkGA1UEBhMCVEgx
+CzAJBgNVBAgTAkJLMRAwDgYDVQQHEwdCYW5na29rMQ4wDAYDVQQKEwVrbXV0dDEL
+MAkGA1UECxMCQ0MxGzAZBgNVBAMTEnR1bm5lbC5rbXV0dC5hYy50aDEeMBwGCSqG
+SIb3DQEJARYPbm9jQGttdXR0LmFjLnRoMB4XDTExMDIyMzA4MzQzMVoXDTIxMDIy
+MDA4MzQzMVowejELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAkJLMRAwDgYDVQQHEwdC
+YW5na29rMQ4wDAYDVQQKEwVrbXV0dDELMAkGA1UECxMCQ0MxDzANBgNVBAMTBmNs
+aWVudDEeMBwGCSqGSIb3DQEJARYPbm9jQGttdXR0LmFjLnRoMIGfMA0GCSqGSIb3
+DQEBAQUAA4GNADCBiQKBgQC5cO1BUbyxEhhaBPDep+KHnCVXiY5GUFrYnUyfIOah
+lu/c6RJTxazPjtjaCq/ohJB3ZlViXdqA3ajmiZdzqTaE1T8TggGpWMBzdRziY2a0
+MOgzlHBSmAW2i7+o3zJf+eVQ+23pcMif3vdkCNxRmODgZMqjeJ9ERd40GzqCG6iA
++QIDAQABo4IBPTCCATkwCQYDVR0TBAIwADAtBglghkgBhvhCAQ0EIBYeRWFzeS1S
+U0EgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBTz+uI7gMVPkvSaKlji
+L82+McmVYzCBuwYDVR0jBIGzMIGwgBRSGqAGvfZPMQxitjg/SJLjZXR0m6GBjKSB
+iTCBhjELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAkJLMRAwDgYDVQQHEwdCYW5na29r
+MQ4wDAYDVQQKEwVrbXV0dDELMAkGA1UECxMCQ0MxGzAZBgNVBAMTEnR1bm5lbC5r
+bXV0dC5hYy50aDEeMBwGCSqGSIb3DQEJARYPbm9jQGttdXR0LmFjLnRoggkAnBMT
+uyn1pR0wEwYDVR0lBAwwCgYIKwYBBQUHAwIwCwYDVR0PBAQDAgeAMA0GCSqGSIb3
+DQEBBQUAA4GBAJ3y1IWY16Wd82MzYo3V28ZN3p4ulUojmH2uteMWvltCNq3x5A5t
+sDhL4+kD6ALArsqbw4S6tgdAdssnKk1JLYvWPwmHUSkYdPiIkl8qdkz0rfdigdWJ
+JBaZksY+VNf2SXlVQSUvvZyjOZ8HQkoRVV1ZBaGl5l9DM/p8FA+xP7Fy
+-----END CERTIFICATE-----
